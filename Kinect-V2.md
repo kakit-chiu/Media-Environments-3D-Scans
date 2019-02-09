@@ -5,9 +5,10 @@ Scanning with the Kinect V2 is not particularly difficult. It just takes a bit o
 
 ## The Pros
 * It is very easy to scan someone and produce a model.
-* Scans come with color information
+* Scans come with color information.
 * The Kinect V2 does a pretty good job at accurately capturing a figure. 
 
 ## The Cons
-* It requires the object move instead of the scanner, which can be tricky considering the object simultaniously needs to stand in place
+* It requires the object move instead of the scanner, which can be tricky considering the object simultaniously needs to stand in place.
 * It does not do a great job at capturing detail and scans look very bad up close.
+* It's very easy to mess up the scan and have to start over.
